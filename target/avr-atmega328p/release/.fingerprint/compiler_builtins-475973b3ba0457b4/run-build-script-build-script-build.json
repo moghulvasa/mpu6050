@@ -1,0 +1,1 @@
+{"rustc":1877221121350915057,"features":"","declared_features":"","target":0,"profile":0,"path":0,"deps":[[3873069036846618750,"build_script_build",false,16355593301606546705]],"local":[{"RerunIfChanged":{"output":"avr-atmega328p/release/build/compiler_builtins-475973b3ba0457b4/output","paths":["build.rs"]}}],"rustflags":[],"metadata":0,"config":0,"compile_kind":0}
